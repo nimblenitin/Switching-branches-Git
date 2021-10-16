@@ -1,4 +1,4 @@
-# Switching-branches-Git
+# Switching-merging-branches-Git
 
 Steps-
 
@@ -28,5 +28,8 @@ $ git branch
 
 8. Use the following command to switch back to the main branch:
 $ git checkout main
+
+9. Use the following command to merge the test_branch to the main branch:
+$ git merge text_branch
 
 ```
